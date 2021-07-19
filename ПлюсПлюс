@@ -1,0 +1,6 @@
+<div id="player"></div>
+
+<script>
+   var player = new Playerjs({id:"player", file:"http://185.97.150.19:8082/262
+"});
+</script>
